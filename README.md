@@ -94,7 +94,7 @@ Some pesonal notes :
 
 * [Brave Browser](https://brave.com/) <img src="https://i.ibb.co/fQzTnKt/r-O7a-Idyp-400x400.png" width="20" height="20" border-width="0" alt="Brave-icon" border="0"> is my prefered private browser. 
 
-* [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> is my prefered private browser. 
+* [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> lets you search, add, edit, and interact with your contacts in an interactive way.
 
 * [cDock](https://www.macenhance.com/cdock) <img src="https://i.ibb.co/tqrgN8d/cdock-logo.png" width="20" height="20" border-width="0" alt="cDock-icon" border="0"> - provides dock customization with multiple times the options the Mac dock menu gives you.
 
@@ -102,23 +102,23 @@ Some pesonal notes :
 
 * [Clearview](https://apps.apple.com/gb/app/clearview/id557090104?mt=12) <img src="https://i.ibb.co/VLhj5SJ/1200x630bb-1.png" width="20" height="20" border-width="0" alt="Clearview-icon" border="0"> is an easy-to-use tabbed style ebook reader, equipped with library shelf, supports popular ebook formats as PDF, EPUB (DRM free).
 
-* [Folder Colorizer](https://langui.net/folder-colorizer/) <img src="https://i.ibb.co/rw5bK43/aedb7dee6938668bf99c1b4ead15b1c6.png" width="20" height="20" border-width="0" alt="FolderColorizer-icon" border="0"> is an easy-to-use tabbed style ebook reader, equipped with library shelf, supports popular ebook formats as PDF, EPUB (DRM free).
+* [Folder Colorizer](https://langui.net/folder-colorizer/) <img src="https://i.ibb.co/rw5bK43/aedb7dee6938668bf99c1b4ead15b1c6.png" width="20" height="20" border-width="0" alt="FolderColorizer-icon" border="0"> assign color to specific folders all at once.
 
 * [Downie](https://software.charliemonroe.net/downie/) <img src="https://i.ibb.co/93Yxw4c/downie-icone-title.png" width="20" height="20" border-width="0" alt="Downie-icon" border="0"> is an app that allows you to easily download videos from thousands of different sites. (Twitch Vods/Clips, Youtube, Soundcloud, Instagram etc.)
 
 * [Dynamic Wallpaper](https://apps.apple.com/gb/app/dynamic-wallpaper-engine/id1453504509?mt=12) <img src="https://i.ibb.co/rdmYh7D/unnamed.png" width="20" height="20" border-width="0" alt="DynamicWallpaper-icon" border="0"> is an app that allows you to use videos and gifs as your wallpaper.
 
-* [Enpass](https://www.enpass.io/) <img src="https://i.ibb.co/bFHGzgz/1200px-Enpass-icon-svg.png" width="20" height="20" border-width="0" alt="Enpass-icon" border="0"> is prefered password manager. It stores backup on Google Drive or any other Cloud Service. 
+* [Enpass](https://www.enpass.io/) <img src="https://i.ibb.co/bFHGzgz/1200px-Enpass-icon-svg.png" width="20" height="20" border-width="0" alt="Enpass-icon" border="0"> is my prefered password manager. It stores backup on Google Drive or any other Cloud Service. 
 
 * [Epubor-krc-converter](https://www.epubor.com/kcr-converter.html) <img src="https://i.ibb.co/MSwtgfJ/kcr-converter.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is able to provide you with the abillity to read your books from Kindle Locally. It also offers multiple file formats.
 
 * [EyeTimer](https://apps.apple.com/us/app/eye-timer/id1485856873?mt=12) <img src="https://i.ibb.co/XJZBLjr/download.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is the app that reminds you to take a break from your computer every so offen to protect your eyes.
 
-* [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 
-* [Github Desktop](https://desktop.github.com/) <img src="https://i.ibb.co/SyG1Rfm/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart.jpg" width="20" height="20" border-width="0" alt="Github-icon" border="0"> it allows you to manage your github repositories from your mac.
+* [Github Desktop](https://desktop.github.com/) <img src="https://i.ibb.co/SyG1Rfm/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart.jpg" width="20" height="20" border-width="0" alt="Github-icon" border="0"> allows you to manage your github repositories from your mac.
 
-* [Hackernews YC](https://apps.apple.com/us/app/hacker-news-yc/id713733435) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="Hackernews-icon" border="0"> it allows you to read Hacker news straight from your desktop.
+* [Hackernews YC](https://apps.apple.com/us/app/hacker-news-yc/id713733435) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="Hackernews-icon" border="0"> allows you to read Hacker news straight from your desktop.
 
 * [iBoysoft NTFS](https://iboysoft.com/ntfs-for-mac/) <img src="https://i.ibb.co/vXpCFBZ/sale-22758-primary-image.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  allows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
 
@@ -126,7 +126,7 @@ Some pesonal notes :
 
 * [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
 
-* [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
+* [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a better input source switcher for OS X, it helps users to switch between keyboard input sources by user-defined shortcuts.
 
 * [Keka](https://www.keka.io/en/) <img src="https://i.ibb.co/crqTcZ3/keka.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
 
@@ -144,7 +144,7 @@ Some pesonal notes :
 
 * [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) <img src="https://i.ibb.co/rxdXbf2/1200x630bb-3.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
 
-* [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
+* [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a tool for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.
 
 * [Multitouch](https://multitouch.app/) <img src="https://i.ibb.co/pv2VNBY/download-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to easily add more gestures to macOS and take control of your trackpad.
 
@@ -189,11 +189,11 @@ Some pesonal notes :
 * [Slash](https://slidepad.xyz/) <img src="https://i.ibb.co/n3HPLfn/SCOM0892-180.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> 
 A Slide Over browser on your Mac. No more hassle of window switching
 
-* [Spillo](https://apps.apple.com/us/app/spillo/id873245660?mt=12) <img src="https://i.ibb.co/0yt6zDR/pinboard-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> A Slide Over browser on your Mac. No more hassle of window switching
+* [Spillo](https://apps.apple.com/us/app/spillo/id873245660?mt=12) <img src="https://i.ibb.co/0yt6zDR/pinboard-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a powerful, magnificent and amazingly fast bookmarking client for MacOS that syncs with Pinboard. 
 
 * [Tweetbot](https://apps.apple.com/gb/app/tweetbot-3-for-twitter/id1384080005?mt=12) <img src="https://i.ibb.co/RNwFFGc/1200x630wa.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a full-featured Twitter client for the Mac. It has a beautiful interface with light & dark themes, multiple-column support and much more.
 
-* [Views](https://apps.apple.com/gb/app/views-4/id1504584987) <img src="https://i.ibb.co/FKxY6MD/Screenshot-at-Jun-29-23-44-18.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a full-featured Twitter client for the Mac. It has a beautiful interface with light & dark themes, multiple-column support and much more.
+* [Views](https://apps.apple.com/gb/app/views-4/id1504584987) <img src="https://i.ibb.co/FKxY6MD/Screenshot-at-Jun-29-23-44-18.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a gorgeous rss, podcasts and article searching and news reader all in one.
 
 * [Typeeto](https://apps.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12) <img src="https://i.ibb.co/C2ZF7Rs/Typeeto-Icon.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that enables you to use your Mac keyboard as a Bluetooth keyboard for other devices such as iPad, iPhone, Apple TV, Android device, etc. You do not need to install any other apps on your device – just connect it to Mac and start typing.
 
