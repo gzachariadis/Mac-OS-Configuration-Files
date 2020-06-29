@@ -174,7 +174,16 @@ Tips and Tricks
 
     If you accidentaly closed a window that you needed, most browsers allow the Command + Z  (aka undo) to brind that window back, but that does not work for         other applications. Mac has Cmd + Shift + T which is universal.
     
+<br>
+10. Duplicate or else known fast copy and paste
+<br>    
+
+
+    Let's say you have two folders open and you want to create a duplicate of one file (copy) into another folder or in your desktop. All you have to do is hold     option and drag the file to its new destination. That will diplicate the file where you want it to. 
+    
+    
+    
       Woah! You reached the end, here's a kitten for your troubles 
-      
+    
       
       ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
