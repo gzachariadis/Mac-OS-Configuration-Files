@@ -223,8 +223,8 @@ Some pesonal notes :
 * [Mac Updater](https://www.corecode.io/macupdater/) <img src="https://i.ibb.co/mC6jS0Q/icon-macupdater.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an automated way to keep every app updated on your mac.
 * [Lazy](https://www.lazy-app.com/) <img src="https://i.ibb.co/B6QVGRk/command-key-534240.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a the faster way to control your environment.
 * [Lightshot](https://app.prntscr.com/en/index.html) <img src="https://i.ibb.co/gJw506H/png-transparent-lightshot-screenshot-computer-icons-others-thumbnail.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the fastest way to take a customizable screenshot and share it.
+* [Liteicon](https://freemacsoft.net/liteicon/) <img src="https://i.ibb.co/d099G16/clay-os-6-a-macos-icon-liteicon-white-and-blue-settings-logo-icon-png-clipart.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a simple app which allows you to change your system icons quickly and easily.
 
-39. LiteIcon - Change all mac Icons to your preference.
 
 40. Lunar - Sync Brightness changes on all monitors or change them individually.
 
