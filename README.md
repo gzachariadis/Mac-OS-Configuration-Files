@@ -320,9 +320,7 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Super Duper!](https://www.bresink.com/osx/TinkerToolSys6.html) <img src="https://i.ibb.co/r4MCGty/Screenshot-at-Jun-30-00-01-14.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup.
 
-58. Radio - Pause media players when input source change is detected or headphones unplugged. 
-
-61. Shotcut - Free Final Cut alternative.
+* [Radio](https://apps.apple.com/gb/app/relax-unplug/id1440712920?mt=12) <img src="https://i.ibb.co/tLFb0wZ/Screenshot-at-Jun-30-00-06-46.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> pauses media players when input source change is detected or headphones unplugged. 
 
       Woah! You reached the end, here's a kitten for your troubles 
     
