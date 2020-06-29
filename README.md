@@ -224,13 +224,8 @@ Some pesonal notes :
 * [Lazy](https://www.lazy-app.com/) <img src="https://i.ibb.co/B6QVGRk/command-key-534240.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a the faster way to control your environment.
 * [Lightshot](https://app.prntscr.com/en/index.html) <img src="https://i.ibb.co/gJw506H/png-transparent-lightshot-screenshot-computer-icons-others-thumbnail.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the fastest way to take a customizable screenshot and share it.
 * [Liteicon](https://freemacsoft.net/liteicon/) <img src="https://i.ibb.co/d099G16/clay-os-6-a-macos-icon-liteicon-white-and-blue-settings-logo-icon-png-clipart.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a simple app which allows you to change your system icons quickly and easily.
-
-
-40. Lunar - Sync Brightness changes on all monitors or change them individually.
-
-41. Magnet - Window Management
-
-42. Monolingual - Delete all languages that you don't use from all apps and the system. Save some space.
+* [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) <img src="https://i.ibb.co/rxdXbf2/1200x630bb-3.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
+* [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
 
 43. Multitouch - Custom Gestures for Mac Trackpad.
 
