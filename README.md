@@ -36,9 +36,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 1. Night in a City
 
-<br>
 ![Night](https://j.gifs.com/ZYxEWQ.gif)
-<br>
 
 2. Mountain Aerial
 
