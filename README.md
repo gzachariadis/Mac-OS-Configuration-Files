@@ -181,8 +181,159 @@ Tips and Tricks
 
     Let's say you have two folders open and you want to create a duplicate of one file (copy) into another folder or in your desktop. All you have to do is hold     option and drag the file to its new destination. That will diplicate the file where you want it to. 
     
-    
-    
+
+
+### Apps
+
+
+1. Alfred - Search your Mac and the web, and be more productive with custom      actions to control your Mac.
+
+2. AntiSleep - AntiSleep - Take control of sleep mode.
+
+3. AppCleaner - Clean your mac apps & files assosiated with it.
+
+4. Atom - My prefered Coding Editor.
+
+5. AudioSwither - Switch Between Audio Sources with shortcuts or the menu bar if  that's your preference.
+
+6. AutoCleanFolder - As the name implies it just cleans folders for you.
+
+7. Bartender 3 - Hide menu bar icons.
+
+8. Blurred - Haze Over open source alternative, it puts a shadow to all but the              focused window. Avoid distractions.
+
+9. Boostnote - Library for all sorts of snippets, code functions and notes. Use it however you like
+
+10. Brave Browser - My prefered ad block and private browsing browser. I keep it as secure as possible.
+
+11. Cappucinno - RSS Reader (don't use it a lot but it's a great tool to keep multiple sources of news and posts.) 
+
+12. Cardhop - A contacts manager that integrates with everything.
+
+13. cDock - Dock customization. cDock gives you full control over the Dock with multiple times the options the mac dock menu gives you.
+
+14. Chatterino - My prefered client for Twitch Chat.
+
+16. Choosy - Choose which links open with which browser.
+
+17. Clearview - Book Reader
+
+18. Clew - Search Google Drive, GitHub, Dropbox and more right from the toolbar.
+
+19. Folder Colorizer - Give a special Color to your folders.
+
+20. Downie 4 - Download anything from anywhere. Supports every player and site you can think off. (Twitch Vods/Clips, Youtube, Soundcloud, Instagram etc.)
+
+21. Dynamic Wallpaper - Put videos or gifs to play for you as wallpaper.
+
+22. Enpass - My prefered password manager. Stores backup on Google Drive or any other Cloud Service. Allows you to never lose a password again.
+
+23. Epubor-krc-converter - I want to keep and read all my books from Kindle Locally. This allows me to do just that. It also offers multiple file formats.
+
+24. Eye Timer - Take a break from your computer every so offen. This app reminds you to do just that.
+
+25. Flux - Tt makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+
+26. GitHub Desktop - Manage your github repositories from your mac.
+
+27. HackerNews YC - Read Hacker News from your desktop.
+
+28. iBoysoft NTFS for Mac - ALlows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
+
+29. IINA - The video player I prefer, SUpports everything that VLC supports.
+
+30. Kawa - Input Source changer (I use it to change language with shortcuts before using an applescript)
+
+31. KeepPassX - My offline backup password manager. Where I keep my licence keys and backup passwords.
+
+32. Keka - the macOS file archiver
+
+33. Keyboard Maesto - Trigger anything with a keyboard shortcut.
+
+34. Klib - Export Notes from Kindle & Apple Books.
+
+35. Mac Updater - Keep all your mac Apps updated. ( free alternative is Latest)
+
+36. Lazy - Trigger all sorts of things with IFTT.
+
+37. Life Journal - Journal for your mac with really simple interface.
+
+38. Lightshot Screenshot - Screenshot Taking and Sharing/Uploading.
+
+39. LiteIcon - Change all mac Icons to your preference.
+
+40. Lunar - Sync Brightness changes on all monitors or change them individually.
+
+41. Magnet - Window Management
+
+42. Monolingual - Delete all languages that you don't use from all apps and the system. Save some space.
+
+43. Multitouch - Custom Gestures for Mac Trackpad.
+
+44. Mutify - Mute/Unmute your microphone system wide with a shortcut.
+
+45. Name Mangler 3 - Search and rename files in bulk. Highly customizable.
+
+46. NaturalReader 16 - SpeedReading tool for books.
+
+47. NDM - Visual package manager.
+
+48. Newton - Email App.
+
+49. NordVPN - My prefered VPN Service.
+
+50. Numi - The best calculator app out there.
+
+51. Panellicious - A second dock in a sense. Put any panel you want in your screen. Files, folders, apps, anything you want.
+
+52. Permute 3 - Works with Downie and Converts any file you want.
+
+53. Photos Duplicate Cleaner - Cleans duplicate image files by using image recognition.
+
+54. Pixave - Google Photo Albums in your mac.
+
+55. PPRows - Get comprehensive info about folders (lines of code, file count by type etc.)
+
+56. Pushpal - Push all notifications from your phone to your pc. (you can reply to texts and messaging app notifications as well)
+
+57. Radio Silence - Block certains apps, processes etc. from accessing the internet.
+
+58. Radio - Pause media players when input source change is detected or headphones unplugged. 
+
+59. Sensei - Mac Cleaner alternative with all sorts of statistics on your Mac.
+
+60. Short Menu - Short all urls quickly with a shortcut.
+
+61. Shotcut - Free Final Cut alternative.
+
+62. SideNotes - Notes on the side of your mac.
+
+63. Silenz - Sound Manupilation (allows you to automatically lower the voice of media as it detects speech around you etc.)
+
+67. Slash - The best way to focus on your to-do list.
+
+68. Sidepad - Browser that toggles on and off.
+
+69. Spillo - Pinboard for your desktop.
+
+70. SpaceLauncher - Launch apps, files, folders etc. with shortcut.
+
+71. Squash - Minimize the file size of photos.
+
+72. SuperDuper! - create a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use,
+
+73. TinkerTool - Gives interface access to all sorts of stuff regarding your OS.
+
+74. Tweetbot - My prefereed twitter client.
+
+75. Typeeto - Use your keyboard to type in bluetooth connected devices like your phone.
+
+76. Typora - Amazing Markdown Editor
+
+77. Unclutter - 3 tools in one. Clipboard manager/Place to store files temporarily/Note keeping.
+
+78. Views - Read news, listen to podcasts, search articles on a topic, bookmark articles etc.
+
       Woah! You reached the end, here's a kitten for your troubles 
     
       
