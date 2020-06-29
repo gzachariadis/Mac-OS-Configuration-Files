@@ -228,8 +228,7 @@ Some pesonal notes :
 * [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
 * [Multitouch](https://multitouch.app/) <img src="https://i.ibb.co/pv2VNBY/download-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to easily add more gestures to macOS and take control of your trackpad.
 * [Mutify](https://mutify.app/) <img src="https://i.ibb.co/DrBD4Xf/mute-me-icon-dribbble-1600x1200.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to use a shortcut or the touch bar on any Mac device to quickly mute your microphone
-
-45. Name Mangler 3 - Search and rename files in bulk. Highly customizable.
+* [Name Magler 3](https://apps.apple.com/us/app/name-mangler-3/id603637384?mt=12) <img src="https://i.ibb.co/85pCGs3/namemangler3icon256.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a blazingly-fast multi-file renaming tool that's incredibly easy to use.
 
 46. NaturalReader 16 - SpeedReading tool for books.
 
