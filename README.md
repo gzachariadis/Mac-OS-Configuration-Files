@@ -281,8 +281,10 @@ Some pesonal notes :
 
 * [Permute](https://apps.apple.com/us/app/permute-3/id1444998321?mt=12) <img src="https://i.ibb.co/1ZRFb0Q/1200x630bb-5.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the ultimate convertor for media files to various different formats.
 
+* [Photos Duplicate Cleaner](https://apps.apple.com/gb/app/photos-duplicate-cleaner/id592704001?mt=12) <img src="https://i.ibb.co/JFdh92P/246x0w.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> minimizes the tedious efforts used for searching your entire system for duplicate photos. It uses Image Recognition to find duplicate images and delete them for you.
 
-53. Photos Duplicate Cleaner - Cleans duplicate image files by using image recognition.
+* [Pixave]() <img src="" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> minimizes the tedious efforts used for searching your entire system for duplicate photos. It uses Image Recognition to find duplicate images and delete them for you.
+
 
 54. Pixave - Google Photo Albums in your mac.
 
