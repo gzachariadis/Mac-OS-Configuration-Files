@@ -42,8 +42,7 @@ Preview :
 <img src="https://j.gifs.com/ZYxEWQ.gif" width="1500" height="600">
 <br>
 
-Video Link : https://youtu.be/dwvygFPR4i8
-
+<p style="text-align: center;">Check it out at : https://youtu.be/dwvygFPR4i8 </p>
 2. Mountain Aerial
 
 ### Folders
