@@ -293,11 +293,9 @@ Some pesonal notes :
 
 * [Sensei](https://sensei.app/) <img src="https://i.ibb.co/DLqzTTv/images-1.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the Next Generation Mac performance tool and a mac cleaner alternative at the same time.
 
+* [Short Menu](https://shortmenu.com/) <img src="https://i.ibb.co/BVHXbsC/icon-1589873759-5ec38c5fa184a.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the most powerful URL shortener available for your Mac
+
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
-
-59. Sensei - Mac Cleaner alternative with all sorts of statistics on your Mac.
-
-60. Short Menu - Short all urls quickly with a shortcut.
 
 61. Shotcut - Free Final Cut alternative.
 
