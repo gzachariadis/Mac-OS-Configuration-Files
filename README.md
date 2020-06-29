@@ -226,10 +226,8 @@ Some pesonal notes :
 * [Liteicon](https://freemacsoft.net/liteicon/) <img src="https://i.ibb.co/d099G16/clay-os-6-a-macos-icon-liteicon-white-and-blue-settings-logo-icon-png-clipart.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a simple app which allows you to change your system icons quickly and easily.
 * [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) <img src="https://i.ibb.co/rxdXbf2/1200x630bb-3.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
 * [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
-
-43. Multitouch - Custom Gestures for Mac Trackpad.
-
-44. Mutify - Mute/Unmute your microphone system wide with a shortcut.
+* [Multitouch](https://multitouch.app/) <img src="https://i.ibb.co/pv2VNBY/download-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to easily add more gestures to macOS and take control of your trackpad.
+* [Mutify](https://mutify.app/) <img src="https://i.ibb.co/DrBD4Xf/mute-me-icon-dribbble-1600x1200.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to use a shortcut or the touch bar on any Mac device to quickly mute your microphone
 
 45. Name Mangler 3 - Search and rename files in bulk. Highly customizable.
 
