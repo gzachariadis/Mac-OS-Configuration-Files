@@ -97,25 +97,25 @@ Tips and Tricks
 
 <br>
 4. Hide all Other Windows
-
+<br>
     Option (alt) + Command + H will hide all windows except of your active one.
 
 <br>
 5. Copy Browser Link
-
+<br>
     Want to copy the link of the webpage you are in? Command + L
   
   
 <br>
 6. Force Quit Applications
-
+<br>
     Cmd + Alt + Escape
 
 
 <br>
-7. Click just under the window management icons to expand a window to your screen. (It does not fullscreen it so you not locked in)
-
-    
+7. Window Management
+<br>
+    Click just under the window management icons to expand a window to your screen. (It does not fullscreen it so you not locked in)    
       
       
       
