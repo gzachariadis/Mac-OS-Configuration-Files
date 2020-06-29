@@ -220,15 +220,9 @@ Some pesonal notes :
 * [Keka](https://www.keka.io/en/) <img src="https://i.ibb.co/crqTcZ3/keka.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
 * [Keyboard Maestro](https://www.keka.io/en/) <img src="https://i.ibb.co/Y72yXnv/keyboard-maestro-icon-100449542-large.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the premiere mac automation software. It can automate almost anything.
 * [Klib](https://apps.apple.com/us/app/klib-organize-highlights/id1196268448?mt=12) <img src="https://i.ibb.co/XpSZn9P/1200x630bb-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new way to manage highlights and notes for Kindle and Apple Books.
-
-
-35. Mac Updater - Keep all your mac Apps updated. ( free alternative is Latest)
-
-36. Lazy - Trigger all sorts of things with IFTT.
-
-37. Life Journal - Journal for your mac with really simple interface.
-
-38. Lightshot Screenshot - Screenshot Taking and Sharing/Uploading.
+* [Mac Updater](https://www.corecode.io/macupdater/) <img src="https://i.ibb.co/mC6jS0Q/icon-macupdater.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an automated way to keep every app updated on your mac.
+* [Lazy](https://www.lazy-app.com/) <img src="https://i.ibb.co/B6QVGRk/command-key-534240.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a the faster way to control your environment.
+* [Lightshot](https://app.prntscr.com/en/index.html) <img src="https://i.ibb.co/gJw506H/png-transparent-lightshot-screenshot-computer-icons-others-thumbnail.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the fastest way to take a customizable screenshot and share it.
 
 39. LiteIcon - Change all mac Icons to your preference.
 
