@@ -297,11 +297,11 @@ Some pesonal notes :
 
 * [SideNotes](https://apps.apple.com/us/app/sidenotes/id1441958036?mt=12) <img src="https://i.ibb.co/ysPZTLX/icon-700.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app for note-taking where you put all your buzzing thoughts in a neat, quick and organized way. Enjoy its non-distractive workflow.
 
+* [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12) <img src="https://i.ibb.co/dWcdghR/icon-1586798064-5e949df06033d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> monitors the sounds of your surroundings in a smart way; once it detects a significant sound (e.g. human speech or telephone ringing), it reacts by pausing or adjusting the volume of media players.
+
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
 61. Shotcut - Free Final Cut alternative.
-
-62. SideNotes - Notes on the side of your mac.
 
 63. Silenz - Sound Manupilation (allows you to automatically lower the voice of media as it detects speech around you etc.)
 
