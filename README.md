@@ -195,10 +195,7 @@ Some pesonal notes :
 * [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - allows you to take control of sleep mode
 * [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AppCleaner-icon" border="0"> - is a simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
 * [Atom](https://atom.io/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - is a hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
-* [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/gzNdMGD/4-audioswitcher-100358242-large.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
-
-AudioSwitcher <a href="https://ibb.co/xJWYSyM"><img src="https://i.ibb.co/gzNdMGD/4-audioswitcher-100358242-large.png" alt="4-audioswitcher-100358242-large" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
-</a>
+* [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/W57P1gJ/icon-Sound-Pref.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
 
 6. AutoCleanFolder - As the name implies it just cleans folders for you.
 
