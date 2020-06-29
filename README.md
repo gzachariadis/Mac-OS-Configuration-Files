@@ -209,10 +209,8 @@ Some pesonal notes :
 * [Dynamic Wallpaper](https://apps.apple.com/gb/app/dynamic-wallpaper-engine/id1453504509?mt=12) <img src="https://i.ibb.co/rdmYh7D/unnamed.png" width="20" height="20" border-width="0" alt="DynamicWallpaper-icon" border="0"> is an app that allows you to use videos and gifs as your wallpaper.
 * [Enpass](https://www.enpass.io/) <img src="https://i.ibb.co/bFHGzgz/1200px-Enpass-icon-svg.png" width="20" height="20" border-width="0" alt="Enpass-icon" border="0"> is prefered password manager. It stores backup on Google Drive or any other Cloud Service. 
 * [Epubor-krc-converter](https://www.epubor.com/kcr-converter.html) <img src="https://i.ibb.co/MSwtgfJ/kcr-converter.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is able to provide you with the abillity to read your books from Kindle Locally. It also offers multiple file formats.
-
-24. Eye Timer - Take a break from your computer every so offen. This app reminds you to do just that.
-
-25. Flux - Tt makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* [EyeTimer](https://apps.apple.com/us/app/eye-timer/id1485856873?mt=12) <img src="https://i.ibb.co/XJZBLjr/download.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is the app that reminds you to take a break from your computer every so offen to protect your eyes.
+* [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 
 26. GitHub Desktop - Manage your github repositories from your mac.
 
