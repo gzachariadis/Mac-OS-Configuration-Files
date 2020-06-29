@@ -229,16 +229,11 @@ Some pesonal notes :
 * [Multitouch](https://multitouch.app/) <img src="https://i.ibb.co/pv2VNBY/download-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to easily add more gestures to macOS and take control of your trackpad.
 * [Mutify](https://mutify.app/) <img src="https://i.ibb.co/DrBD4Xf/mute-me-icon-dribbble-1600x1200.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to use a shortcut or the touch bar on any Mac device to quickly mute your microphone
 * [Name Magler 3](https://apps.apple.com/us/app/name-mangler-3/id603637384?mt=12) <img src="https://i.ibb.co/85pCGs3/namemangler3icon256.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a blazingly-fast multi-file renaming tool that's incredibly easy to use.
-
-46. NaturalReader 16 - SpeedReading tool for books.
-
-47. NDM - Visual package manager.
-
-48. Newton - Email App.
-
-49. NordVPN - My prefered VPN Service.
-
-50. Numi - The best calculator app out there.
+* [Natural Reader](https://www.naturalreaders.com/) <img src="https://i.ibb.co/4pxJ85p/natural-reader.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a free text to speech online app with natural voices, convert text to audio and mp3, for personal and commercial use.
+* [NDM](https://720kb.github.io/ndm/) <img src="ttps://i.ibb.co/7rdkZkC/social-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a desktop GUI Application for npm. Manage npm from the couch.
+* [Newton](https://newtonhq.com/k/mac) <img src="https://i.ibb.co/m9QDvPb/1200x630bb-4.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a super simple focused email mac app.
+* [NordVPN](https://nordvpn.com/) <img src="https://i.ibb.co/Kb3xwWB/JUF1-IBZv-400x400.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a vpn client that encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform.
+* [Numi](https://nordvpn.com/) <img src="https://i.ibb.co/9HtjGNy/download-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the beautiful adaptive calculator app for Mac and works in every language.
 
 51. Panellicious - A second dock in a sense. Put any panel you want in your screen. Files, folders, apps, anything you want.
 
