@@ -218,10 +218,9 @@ Some pesonal notes :
 * [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
 * [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
 * [Keka](https://www.keka.io/en/) <img src="https://i.ibb.co/crqTcZ3/keka.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
+* [Keyboard Maestro](https://www.keka.io/en/) <img src="https://i.ibb.co/Y72yXnv/keyboard-maestro-icon-100449542-large.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the premiere mac automation software. It can automate almost anything.
+* [Klib](https://apps.apple.com/us/app/klib-organize-highlights/id1196268448?mt=12) <img src="https://i.ibb.co/XpSZn9P/1200x630bb-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new way to manage highlights and notes for Kindle and Apple Books.
 
-33. Keyboard Maesto - Trigger anything with a keyboard shortcut.
-
-34. Klib - Export Notes from Kindle & Apple Books.
 
 35. Mac Updater - Keep all your mac Apps updated. ( free alternative is Latest)
 
