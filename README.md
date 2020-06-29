@@ -70,6 +70,8 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 Tips and Tricks
 
+
+<br>
 1. Quick Look
 
     Select a file --> Press Spacebar = Will preview the file without having to open it (press Spacebar again and you will exit preview)
@@ -78,7 +80,48 @@ Tips and Tricks
 
       Also you can look into a Zip without Unziping (which is free)
 
-      For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+          For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+
+<br>
+2. Search in Finder
+
+    When searching for a file you have to use "" (e.g. "Screenshot") for only files containing the given search parameter to show up, because Finder searches   
+    thought meta data by default
+
+
+<br>
+3. App Switcher
+
+    Command + Tab (tab to cycle through)
+    Commad + Q (to close from the app switcher)
+
+<br>
+4. Hide all Other Windows
+
+    Option (alt) + Command + H will hide all windows except of your active one.
+
+<br>
+5. Copy Browser Link
+
+    Want to copy the link of the webpage you are in? Command + L
+  
+  
+<br>
+6. Force Quit Applications
+
+    Cmd + Alt + Escape
+
+
+<br>
+7. Click just under the window management icons to expand a window to your screen. (It does not fullscreen it so you not locked in)
+
+    
+      
+      
+      
+      
+      
+      
       
       Woah! You reached the end, here's a kitten for your troubles 
       
