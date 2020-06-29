@@ -16,19 +16,19 @@ A depository showcasing a professional programmer setup to get the most out of y
 2. Mountains
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Mountain.jpeg?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/Mountain.jpeg" width="1000" height="400">
 <br>
 
 3. Dreams
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Wallpapers/Backgrounds/Dreams.png?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/Dreams.png" width="1000" height="400">
 <br>
 
 4. Dynamic Sky
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/DynamicSky.png?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/DynamicSky.png" width="1000" height="400">
 <br>
 
 ### Dynamic Wallpapers
@@ -47,23 +47,23 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 1. First set
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Black.png?raw=true" width="50" height="50" align="left" hspace="0"/>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Black.png" width="50" height="50" align="left" hspace="0"/>
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Blue.png?raw=true" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Blue.png" width="50" height="50" align="left" hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Gray.png?raw=true" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Gray.png" width="50" height="50" align="left" hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Green.png?raw=true" width="50" height="50" align="left"  hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Green.png" width="50" height="50" align="left"  hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Orange.png?raw=true" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Orange.png" width="50" height="50" align="left" hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Purple.png?raw=true" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Purple.png" width="50" height="50" align="left" hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Red.png?raw=true" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Red.png" width="50" height="50" align="left" hspace="0" />
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png?raw=true" width="50" height="50" align="left" hspace="0"/>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png" width="50" height="50" align="left" hspace="0"/>
 
-
+<br>
 Tips and Tricks
 
 
