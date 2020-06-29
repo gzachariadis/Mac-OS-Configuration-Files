@@ -186,12 +186,12 @@ Tips and Tricks
 ### Apps
 
 * [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  Search your Mac and the web, and be more productive with custom actions to control your Mac! 
-* [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
+* [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - Take control of sleep mode
 * [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
 
-1. Alfred - Search your Mac and the web, and be more productive with custom      actions to control your Mac.
-
 2. AntiSleep - AntiSleep - Take control of sleep mode.
+
+<a href="https://imgbb.com/"><img src="" alt="1200x630bb" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image upload</a><br />
 
 3. AppCleaner - Clean your mac apps & files assosiated with it.
 
