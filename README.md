@@ -295,6 +295,8 @@ Some pesonal notes :
 
 * [Short Menu](https://shortmenu.com/) <img src="https://i.ibb.co/BVHXbsC/icon-1589873759-5ec38c5fa184a.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the most powerful URL shortener available for your Mac
 
+* [SideNotes](https://apps.apple.com/us/app/sidenotes/id1441958036?mt=12) <img src="https://i.ibb.co/ysPZTLX/icon-700.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app for note-taking where you put all your buzzing thoughts in a neat, quick and organized way. Enjoy its non-distractive workflow.
+
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
 61. Shotcut - Free Final Cut alternative.
