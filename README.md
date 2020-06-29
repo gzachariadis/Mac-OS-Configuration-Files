@@ -37,7 +37,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Night in a City
 
 <br>
-<a href="https://youtu.be/dwvygFPR4i8" title="Night in a City"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="https://youtu.be/dwvygFPR4i8" title="Night in a City"><img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/mq2.jpg" alt="Alternate Text" /></a>
 <br>
 
 2. Mountain Aerial
