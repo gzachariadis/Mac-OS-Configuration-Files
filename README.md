@@ -197,12 +197,8 @@ Some pesonal notes :
 * [Atom](https://atom.io/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - is a hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
 * [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/W57P1gJ/icon-Sound-Pref.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
 * [AutoCleanFolder](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/nPQD45Y/download.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an app that just cleans folders for you when they match certain criteria.
-* [Bartender 3](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/QD2xHxy/icon-512x512-2x.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an app that just cleans folders for you when they match certain criteria.
-
-
-7. Bartender 3 - Hide menu bar icons.
-
-8. Blurred - Haze Over open source alternative, it puts a shadow to all but the              focused window. Avoid distractions.
+* [Bartender](https://www.macbartender.com/) <img src="https://i.ibb.co/QD2xHxy/icon-512x512-2x.png" width="20" height="20" border-width="0" alt="Bartender-icon" border="0"> - is an app that allows to hide icons from your menu bar.
+* [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/DbJMBTr/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.jpg" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an intuitive and stylish markdown note app for developers and it's fully open-source.
 
 9. Boostnote - Library for all sorts of snippets, code functions and notes. Use it however you like
 
