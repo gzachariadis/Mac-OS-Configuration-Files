@@ -37,14 +37,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Night in a City
 
 <br>
-<iframe src='//gifs.com/embed/night-in-a-city-ZYxEWQ' frameborder='0' scrolling='no' width='440' height='400' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-<br>
-
-![Alt Text](https://j.gifs.com/ZYxEWQ.gif)
-
-
-<br>
-<div style='position:relative;padding-bottom:56.232%;'><iframe src="//gifs.com/embed/night-in-a-city-ZYxEWQ" frameborder="0" scrolling="no" width="690" height="388" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+![Night in a City ](https://j.gifs.com/ZYxEWQ.gif)
 <br>
 
 2. Mountain Aerial
@@ -82,3 +75,7 @@ Tips and Tricks
       Also you can look into a Zip without Unziping (which is free)
 
       For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+      
+      Woah! You reached the end, here's a kitten for your troubles 
+      
+      ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
