@@ -203,6 +203,7 @@ Some pesonal notes :
 * [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> - is my prefered private browser. 
 * [cDock](https://www.macenhance.com/cdock) <img src="https://i.ibb.co/tqrgN8d/cdock-logo.png" width="20" height="20" border-width="0" alt="cDock-icon" border="0"> - provides dock customization with multiple times the options the Mac dock menu gives you.
 * [Choosy](https://www.choosyosx.com/) <img src="https://i.ibb.co/KhhmLDy/choosy-logo.png" width="20" height="20" border-width="0" alt="Chooshy-icon" border="0"> - choose which links open with which browser automatically.
+* [Clearview](https://apps.apple.com/gb/app/clearview/id557090104?mt=12) <img src="https://i.ibb.co/VLhj5SJ/1200x630bb-1.png" width="20" height="20" border-width="0" alt="Clearview-icon" border="0"> - is an easy-to-use tabbed style ebook reader, equipped with library shelf, supports popular ebook formats as PDF, EPUB (DRM free).
 
 17. Clearview - Book Reader
 
