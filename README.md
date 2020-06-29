@@ -291,6 +291,7 @@ Some pesonal notes :
 
 * [RadioSilence](https://radiosilenceapp.com/) <img src="https://i.ibb.co/VSDYCvD/macos-app-icons-radio-silence-1-png-clip-art.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> The easiest network monitor and firewall for Mac and easily blocks any app from going online
 
+* [Sensei](https://sensei.app/) <img src="https://i.ibb.co/DLqzTTv/images-1.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the Next Generation Mac performance tool and a mac cleaner alternative at the same time.
 
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
