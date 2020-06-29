@@ -187,13 +187,7 @@ Tips and Tricks
 
 * [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  Search your Mac and the web, and be more productive with custom actions to control your Mac! 
 * [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - Take control of sleep mode
-* [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
-
-2. AntiSleep - AntiSleep - Take control of sleep mode.
-
-<a href="https://imgbb.com/"><img src="" alt="1200x630bb" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image upload</a><br />
-
-3. AppCleaner - Clean your mac apps & files assosiated with it.
+* [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - Simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
 
 4. Atom - My prefered Coding Editor.
 
