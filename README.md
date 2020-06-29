@@ -191,54 +191,96 @@ Some pesonal notes :
 2. Having said that, I personally also avoid apps that require a subscription except in rare cases.q
 3. Also, although I pay for all my apps not only to support developers but to ensure in my part these apps continue to provide updates and compatibbility so I don't have to switch or search for new ones to replace them arguably costing me more money and time long term.
 
-* [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> allows you to search your Mac and the web, and be more productive with custom actions to control your Mac! 
-* [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> allows you to take control of sleep mode
+* [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> allows you to search your Mac and the web, and be more productive with custom actions to control your Mac.
+
+* [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> allows you to take control of sleep mode.
+
 * [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AppCleaner-icon" border="0"> is a simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
+
 * [Atom](https://atom.io/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> is a hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
+
 * [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/W57P1gJ/icon-Sound-Pref.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> is a menu bar that allows you to switch quickly between all available input and output devices.  
+
 * [AutoCleanFolder](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/nPQD45Y/download.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> is an app that just cleans folders for you when they match certain criteria.
+
 * [Bartender](https://www.macbartender.com/) <img src="https://i.ibb.co/QD2xHxy/icon-512x512-2x.png" width="20" height="20" border-width="0" alt="Bartender-icon" border="0"> is an app that allows to hide icons from your menu bar.
+
 * [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/kDg37t2/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.png" width="20" height="20" border-width="0" alt="Boostnote-icon" border="0"> is an intuitive and stylish markdown note app for developers and it's fully open-source.
+
 * [Brave Browser](https://brave.com/) <img src="https://i.ibb.co/fQzTnKt/r-O7a-Idyp-400x400.png" width="20" height="20" border-width="0" alt="Brave-icon" border="0"> is my prefered private browser. 
+
 * [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> is my prefered private browser. 
+
 * [cDock](https://www.macenhance.com/cdock) <img src="https://i.ibb.co/tqrgN8d/cdock-logo.png" width="20" height="20" border-width="0" alt="cDock-icon" border="0"> - provides dock customization with multiple times the options the Mac dock menu gives you.
+
 * [Choosy](https://www.choosyosx.com/) <img src="https://i.ibb.co/KhhmLDy/choosy-logo.png" width="20" height="20" border-width="0" alt="Chooshy-icon" border="0"> allows you to choose which links open with which browser automatically.
+
 * [Clearview](https://apps.apple.com/gb/app/clearview/id557090104?mt=12) <img src="https://i.ibb.co/VLhj5SJ/1200x630bb-1.png" width="20" height="20" border-width="0" alt="Clearview-icon" border="0"> is an easy-to-use tabbed style ebook reader, equipped with library shelf, supports popular ebook formats as PDF, EPUB (DRM free).
+
 * [Folder Colorizer](https://langui.net/folder-colorizer/) <img src="https://i.ibb.co/rw5bK43/aedb7dee6938668bf99c1b4ead15b1c6.png" width="20" height="20" border-width="0" alt="FolderColorizer-icon" border="0"> is an easy-to-use tabbed style ebook reader, equipped with library shelf, supports popular ebook formats as PDF, EPUB (DRM free).
+
 * [Downie](https://software.charliemonroe.net/downie/) <img src="https://i.ibb.co/93Yxw4c/downie-icone-title.png" width="20" height="20" border-width="0" alt="Downie-icon" border="0"> is an app that allows you to easily download videos from thousands of different sites. (Twitch Vods/Clips, Youtube, Soundcloud, Instagram etc.)
+
 * [Dynamic Wallpaper](https://apps.apple.com/gb/app/dynamic-wallpaper-engine/id1453504509?mt=12) <img src="https://i.ibb.co/rdmYh7D/unnamed.png" width="20" height="20" border-width="0" alt="DynamicWallpaper-icon" border="0"> is an app that allows you to use videos and gifs as your wallpaper.
+
 * [Enpass](https://www.enpass.io/) <img src="https://i.ibb.co/bFHGzgz/1200px-Enpass-icon-svg.png" width="20" height="20" border-width="0" alt="Enpass-icon" border="0"> is prefered password manager. It stores backup on Google Drive or any other Cloud Service. 
+
 * [Epubor-krc-converter](https://www.epubor.com/kcr-converter.html) <img src="https://i.ibb.co/MSwtgfJ/kcr-converter.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is able to provide you with the abillity to read your books from Kindle Locally. It also offers multiple file formats.
+
 * [EyeTimer](https://apps.apple.com/us/app/eye-timer/id1485856873?mt=12) <img src="https://i.ibb.co/XJZBLjr/download.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is the app that reminds you to take a break from your computer every so offen to protect your eyes.
+
 * [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+
 * [Github Desktop](https://desktop.github.com/) <img src="https://i.ibb.co/SyG1Rfm/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart.jpg" width="20" height="20" border-width="0" alt="Github-icon" border="0"> it allows you to manage your github repositories from your mac.
+
 * [Hackernews YC](https://apps.apple.com/us/app/hacker-news-yc/id713733435) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="Hackernews-icon" border="0"> it allows you to read Hacker news straight from your desktop.
+
 * [iBoysoft NTFS](https://iboysoft.com/ntfs-for-mac/) <img src="https://i.ibb.co/vXpCFBZ/sale-22758-primary-image.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  allows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
+
 * [IINA](https://iina.io/) <img src="https://i.ibb.co/JFvXc6B/53581f4f41a07da471b67764ed6acf2d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
+
 * [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
+
 * [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
+
 * [Keka](https://www.keka.io/en/) <img src="https://i.ibb.co/crqTcZ3/keka.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
+
 * [Keyboard Maestro](https://www.keka.io/en/) <img src="https://i.ibb.co/Y72yXnv/keyboard-maestro-icon-100449542-large.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the premiere mac automation software. It can automate almost anything.
+
 * [Klib](https://apps.apple.com/us/app/klib-organize-highlights/id1196268448?mt=12) <img src="https://i.ibb.co/XpSZn9P/1200x630bb-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new way to manage highlights and notes for Kindle and Apple Books.
+
 * [Mac Updater](https://www.corecode.io/macupdater/) <img src="https://i.ibb.co/mC6jS0Q/icon-macupdater.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an automated way to keep every app updated on your mac.
+
 * [Lazy](https://www.lazy-app.com/) <img src="https://i.ibb.co/B6QVGRk/command-key-534240.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a the faster way to control your environment.
+
 * [Lightshot](https://app.prntscr.com/en/index.html) <img src="https://i.ibb.co/gJw506H/png-transparent-lightshot-screenshot-computer-icons-others-thumbnail.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the fastest way to take a customizable screenshot and share it.
+
 * [Liteicon](https://freemacsoft.net/liteicon/) <img src="https://i.ibb.co/d099G16/clay-os-6-a-macos-icon-liteicon-white-and-blue-settings-logo-icon-png-clipart.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a simple app which allows you to change your system icons quickly and easily.
+
 * [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) <img src="https://i.ibb.co/rxdXbf2/1200x630bb-3.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
+
 * [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
+
 * [Multitouch](https://multitouch.app/) <img src="https://i.ibb.co/pv2VNBY/download-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to easily add more gestures to macOS and take control of your trackpad.
+
 * [Mutify](https://mutify.app/) <img src="https://i.ibb.co/DrBD4Xf/mute-me-icon-dribbble-1600x1200.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to use a shortcut or the touch bar on any Mac device to quickly mute your microphone.
+
 * [Name Magler 3](https://apps.apple.com/us/app/name-mangler-3/id603637384?mt=12) <img src="https://i.ibb.co/85pCGs3/namemangler3icon256.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a blazingly-fast multi-file renaming tool that's incredibly easy to use.
+
 * [Natural Reader](https://www.naturalreaders.com/) <img src="https://i.ibb.co/4pxJ85p/natural-reader.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a free text to speech online app with natural voices, convert text to audio and mp3, for personal and commercial use.
+
 * [NDM](https://720kb.github.io/ndm/) <img src="https://i.ibb.co/7rdkZkC/social-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a desktop GUI Application for npm. Manage npm from the couch.
+
 * [Newton](https://newtonhq.com/k/mac) <img src="https://i.ibb.co/m9QDvPb/1200x630bb-4.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a super simple focused email mac app.
+
 * [NordVPN](https://nordvpn.com/) <img src="https://i.ibb.co/Kb3xwWB/JUF1-IBZv-400x400.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a vpn client that encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform.
 
 * [Numi](https://nordvpn.com/) <img src="https://i.ibb.co/9HtjGNy/download-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the beautiful adaptive calculator app for Mac and works in every language.
 
 * [Panellicious](https://apps.apple.com/gb/app/panelicious/id1500880455?mt=12) <img src="https://i.ibb.co/q7BD9ws/color-app-icon-solo-single-panel.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the app that allows you to put static panels on your screen which can include everything from apps to files and folders for quick access.
 
-52. Permute 3 - Works with Downie and Converts any file you want.
+* [Permute](https://apps.apple.com/us/app/permute-3/id1444998321?mt=12) <img src="https://i.ibb.co/1ZRFb0Q/1200x630bb-5.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the ultimate convertor for media files to various different formats.
+
 
 53. Photos Duplicate Cleaner - Cleans duplicate image files by using image recognition.
 
