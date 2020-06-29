@@ -211,10 +211,9 @@ Some pesonal notes :
 * [Epubor-krc-converter](https://www.epubor.com/kcr-converter.html) <img src="https://i.ibb.co/MSwtgfJ/kcr-converter.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is able to provide you with the abillity to read your books from Kindle Locally. It also offers multiple file formats.
 * [EyeTimer](https://apps.apple.com/us/app/eye-timer/id1485856873?mt=12) <img src="https://i.ibb.co/XJZBLjr/download.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is the app that reminds you to take a break from your computer every so offen to protect your eyes.
 * [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* [Github Desktop](https://desktop.github.com/) <img src="https://i.ibb.co/SyG1Rfm/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart.jpg" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it allows you to manage your github repositories from your mac.
+* [Hackernews YC](https://desktop.github.com/) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> it allows you to read Hacker news straight from your desktop.
 
-26. GitHub Desktop - Manage your github repositories from your mac.
-
-27. HackerNews YC - Read Hacker News from your desktop.
 
 28. iBoysoft NTFS for Mac - ALlows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
 
