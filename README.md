@@ -185,12 +185,20 @@ Tips and Tricks
 
 ### Apps
 
-* [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  Search your Mac and the web, and be more productive with custom actions to control your Mac! 
-* [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - Take control of sleep mode
-* [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AppCleaner-icon" border="0"> - Simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
-* [Atom](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - A hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
+Some pesonal notes :
 
-5. AudioSwither - Switch Between Audio Sources with shortcuts or the menu bar if  that's your preference.
+1. I use AppStore as my primary method of searching and buying applications I plan to install on my computer and I suggest you do too.
+2. Having said that, I personally also avoid apps that require a subscription except in rare cases.q
+3. Also, although I pay for all my apps not only to support developers but to ensure in my part these apps continue to provide updates and compatibbility so I don't have to switch or search for new ones to replace them arguably costing me more money and time long term.
+
+* [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  allows you to search your Mac and the web, and be more productive with custom actions to control your Mac! 
+* [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - allows you to take control of sleep mode
+* [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AppCleaner-icon" border="0"> - is a simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
+* [Atom](https://atom.io/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - is a hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
+* [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/gzNdMGD/4-audioswitcher-100358242-large.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
+
+AudioSwitcher <a href="https://ibb.co/xJWYSyM"><img src="https://i.ibb.co/gzNdMGD/4-audioswitcher-100358242-large.png" alt="4-audioswitcher-100358242-large" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
+</a>
 
 6. AutoCleanFolder - As the name implies it just cleans folders for you.
 
