@@ -200,9 +200,7 @@ Some pesonal notes :
 * [Bartender](https://www.macbartender.com/) <img src="https://i.ibb.co/QD2xHxy/icon-512x512-2x.png" width="20" height="20" border-width="0" alt="Bartender-icon" border="0"> - is an app that allows to hide icons from your menu bar.
 * [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/kDg37t2/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.png" width="20" height="20" border-width="0" alt="Boostnote-icon" border="0"> - is an intuitive and stylish markdown note app for developers and it's fully open-source.
 * [Brave Browser](https://brave.com/) <img src="https://i.ibb.co/fQzTnKt/r-O7a-Idyp-400x400.png" width="20" height="20" border-width="0" alt="Brave-icon" border="0"> - is my prefered private browser. 
-
-
-11. Cappucinno - RSS Reader (don't use it a lot but it's a great tool to keep multiple sources of news and posts.) 
+* [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> - is my prefered private browser. 
 
 12. Cardhop - A contacts manager that integrates with everything.
 
