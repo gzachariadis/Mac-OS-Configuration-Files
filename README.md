@@ -70,7 +70,15 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 Tips and Tricks
 
+<br>
 
+1. First things I do once I get a new Mac 
+
+        Change the update check frequency for app store from 7 days to whatever you want
+        
+            defaults write com.apple.SoftwareUpdate ScheduleFrequency -int [number of days]
+            
+            I personally like to keep my Mac updated every day so I input 1 
 <br>
 
 1. Quick Look
@@ -129,7 +137,7 @@ Tips and Tricks
  
  
 <br>
-7. Desktop Icons
+8. Desktop Icons
 <br>
    
    Most people download and use apps like HiddenMe or Other sort of solution to hide unhide their icons. I for example map it into my Streamdeck and previously      into a shorcut of my own.
@@ -144,8 +152,29 @@ Tips and Tricks
       
    Be reminded that you need to restart finder with this option for it to take effect (killall Finder) is the way to do that.   
       
+<br>
+8. Text Manipulation
+<br>
+      How to select text the propery way
       
+        Hold Alt Key ---> cursor turns into cross. Now you can select columns instead of getting the whole thing.
       
+      How to Search Words
+      
+        If you like me you probably forget how words are spelled all the time. Well, Mac got you covered, as long as you remember how the word starts you can             type and press F5 to search for all words matching that starting point.
+       
+      How to Fix Words
+      
+        If you want to type something like "jk" or "fuck" and you do a mistake press Ctrl + T and Mac will witch the last two letters for you.
+      
+
+<br>
+9. Whoopies
+<br>
+
+    If you accidentaly closed a window that you needed, most browsers allow the Command + Z  (aka undo) to brind that window back, but that does not work for         other applications. Mac has Cmd + Shift + T which is universal.
+    
       Woah! You reached the end, here's a kitten for your troubles 
+      
       
       ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
