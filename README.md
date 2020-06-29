@@ -188,9 +188,7 @@ Tips and Tricks
 * [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  Search your Mac and the web, and be more productive with custom actions to control your Mac! 
 * [AntiSleep](https://apps.apple.com/gb/app/antisleep-keep-system-awake/id946798523?mt=12) <img src="https://i.ibb.co/t338g0Q/1200x630bb.png" width="20" height="20" border-width="0" alt="AntiSleep-icon" border="0"> - Take control of sleep mode
 * [AppCleaner](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/pngK84p/appcleaner-for-macos-old-recycle-bin-icon.png" width="20" height="20" border-width="0" alt="AppCleaner-icon" border="0"> - Simple, elegant and small application which allows you to thoroughly uninstall unwanted apps and files assosiated with them.
-* [Atom](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/xfcg4kY/68747470733a2f2f7261776769746875622e636f6d2f6564776172646c6f7665616c6c2f61746f6d2d7265706c6163656d65.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - A hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
-
-4. Atom - My prefered Coding Editor.
+* [Atom](https://freemacsoft.net/appcleaner/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - A hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
 
 5. AudioSwither - Switch Between Audio Sources with shortcuts or the menu bar if  that's your preference.
 
