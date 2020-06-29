@@ -299,35 +299,37 @@ Some pesonal notes :
 
 * [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12) <img src="https://i.ibb.co/dWcdghR/icon-1586798064-5e949df06033d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> monitors the sounds of your surroundings in a smart way; once it detects a significant sound (e.g. human speech or telephone ringing), it reacts by pausing or adjusting the volume of media players.
 
+* [Slash](https://getslash.co/) <img src="https://i.ibb.co/4spmDd5/246x0w-1.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  Other apps only make to-do lists. Slash slices through them by helping you focus and stay in flow.
+
+* [Slash](https://slidepad.xyz/) <img src="https://i.ibb.co/n3HPLfn/SCOM0892-180.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> 
+A Slide Over browser on your Mac. No more hassle of window switching
+
+* [Spillo](https://apps.apple.com/us/app/spillo/id873245660?mt=12) <img src="https://i.ibb.co/0yt6zDR/pinboard-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> A Slide Over browser on your Mac. No more hassle of window switching
+
+* [Tweetbot](https://apps.apple.com/gb/app/tweetbot-3-for-twitter/id1384080005?mt=12) <img src="https://i.ibb.co/RNwFFGc/1200x630wa.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a full-featured Twitter client for the Mac. It has a beautiful interface with light & dark themes, multiple-column support and much more.
+
+* [Views](https://apps.apple.com/gb/app/views-4/id1504584987) <img src="https://i.ibb.co/FKxY6MD/Screenshot-at-Jun-29-23-44-18.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a full-featured Twitter client for the Mac. It has a beautiful interface with light & dark themes, multiple-column support and much more.
+
+* [Typeeto](https://apps.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12) <img src="https://i.ibb.co/C2ZF7Rs/Typeeto-Icon.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that enables you to use your Mac keyboard as a Bluetooth keyboard for other devices such as iPad, iPhone, Apple TV, Android device, etc. You do not need to install any other apps on your device – just connect it to Mac and start typing.
+
+* [Unclutter](https://apps.apple.com/us/app/unclutter/id577085396?mt=12) <img src="https://i.ibb.co/44rpsKm/Screenshot-at-Jun-29-23-49-40.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new handy place on your desktop for storing notes, files and pasteboard clips.
+
+* [Typora](https://typora.io/) <img src="https://i.ibb.co/2MJMLfy/images-2.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new handy place on your desktop for storing notes, files and pasteboard clips.
+
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
 61. Shotcut - Free Final Cut alternative.
 
-63. Silenz - Sound Manupilation (allows you to automatically lower the voice of media as it detects speech around you etc.)
+ - Amazing Markdown Editor
 
-67. Slash - The best way to focus on your to-do list.
-
-68. Sidepad - Browser that toggles on and off.
-
-69. Spillo - Pinboard for your desktop.
-
-70. SpaceLauncher - Launch apps, files, folders etc. with shortcut.
-
-71. Squash - Minimize the file size of photos.
 
 72. SuperDuper! - create a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use,
 
 73. TinkerTool - Gives interface access to all sorts of stuff regarding your OS.
 
-74. Tweetbot - My prefereed twitter client.
-
-75. Typeeto - Use your keyboard to type in bluetooth connected devices like your phone.
 
 76. Typora - Amazing Markdown Editor
 
-77. Unclutter - 3 tools in one. Clipboard manager/Place to store files temporarily/Note keeping.
-
-78. Views - Read news, listen to podcasts, search articles on a topic, bookmark articles etc.
 
       Woah! You reached the end, here's a kitten for your troubles 
     
