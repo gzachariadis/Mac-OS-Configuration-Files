@@ -126,10 +126,23 @@ Tips and Tricks
 <br>
     
     Click just under the window management icons to expand a window to your screen. (It does not fullscreen it so you not locked in)    
+ 
+ 
+<br>
+7. Desktop Icons
+<br>
+   
+   Most people download and use apps like HiddenMe or Other sort of solution to hide unhide their icons. I for example map it into my Streamdeck and previously      into a shorcut of my own.
+   
+   Hide
+   
+   defaults write com.apple.finder CreateDesktop false
+
+   Unhide
+   
+   defaults write com.apple.finder CreateDesktop true
       
-      
-      
-      
+   Be reminded that you need to restart finder with this option for it to take effect (killall Finder) is the way to do that.   
       
       
       
