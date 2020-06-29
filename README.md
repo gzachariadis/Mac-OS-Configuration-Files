@@ -185,6 +185,9 @@ Tips and Tricks
 
 ### Apps
 
+* [Alfred](https://www.alfredapp.com/) <img src="https://i.ibb.co/ZzWq6tb/Alfred-icon.png" width="20" height="20" border-width="0" alt="Alfred-icon" border="0"> -  Search your Mac and the web, and be more productive with custom actions to control your Mac! 
+* [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
+* [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
 
 1. Alfred - Search your Mac and the web, and be more productive with custom      actions to control your Mac.
 
