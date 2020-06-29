@@ -43,7 +43,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 2. Mountain Aerial
 
 ### Folders
-<br>\
+<br>
 
 1. First set
 
@@ -63,9 +63,9 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 <img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png" width="50" height="50" align="left" hspace="0"/>
 
-<br>
+<br><br>
 Tips and Tricks
-
+<br>
 
 1. Quick Look
 
@@ -75,4 +75,4 @@ Tips and Tricks
 
       Also you can look into a Zip without Unziping (which is free)
 
-          For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+      For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
