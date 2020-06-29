@@ -197,7 +197,7 @@ Some pesonal notes :
 * [Atom](https://atom.io/) <img src="https://i.ibb.co/4Ynfmjr/1-2o-PFf5u-Ut-c-Bc-AMBXTpchw.png" width="20" height="20" border-width="0" alt="Atom-icon" border="0"> - is a hackable text editor for the 21st Century. Eveything and anything you need out of a Coding Suite.
 * [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/W57P1gJ/icon-Sound-Pref.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
 * [AutoCleanFolder](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/nPQD45Y/download.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an app that just cleans folders for you when they match certain criteria.
-
+* [Bartender 3](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/QcJtNqr/bartender-icon-mac-100068830-large.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an app that just cleans folders for you when they match certain criteria.
 
 7. Bartender 3 - Hide menu bar icons.
 
