@@ -316,20 +316,13 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Typora](https://typora.io/) <img src="https://i.ibb.co/2MJMLfy/images-2.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new handy place on your desktop for storing notes, files and pasteboard clips.
 
+* [TinkerTool](https://www.bresink.com/osx/TinkerToolSys6.html) <img src="https://i.ibb.co/W2JmmxG/Tinker-Tool-Logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new handy place on your desktop for storing notes, files and pasteboard clips.
+
+* [Super Duper!](https://www.bresink.com/osx/TinkerToolSys6.html) <img src="https://i.ibb.co/r4MCGty/Screenshot-at-Jun-30-00-01-14.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup.
+
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
 61. Shotcut - Free Final Cut alternative.
-
- - Amazing Markdown Editor
-
-
-72. SuperDuper! - create a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use,
-
-73. TinkerTool - Gives interface access to all sorts of stuff regarding your OS.
-
-
-76. Typora - Amazing Markdown Editor
-
 
       Woah! You reached the end, here's a kitten for your troubles 
     
