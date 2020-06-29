@@ -233,7 +233,9 @@ Some pesonal notes :
 * [NDM](https://720kb.github.io/ndm/) <img src="https://i.ibb.co/7rdkZkC/social-icon.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a desktop GUI Application for npm. Manage npm from the couch.
 * [Newton](https://newtonhq.com/k/mac) <img src="https://i.ibb.co/m9QDvPb/1200x630bb-4.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a super simple focused email mac app.
 * [NordVPN](https://nordvpn.com/) <img src="https://i.ibb.co/Kb3xwWB/JUF1-IBZv-400x400.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a vpn client that encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform.
+
 * [Numi](https://nordvpn.com/) <img src="https://i.ibb.co/9HtjGNy/download-2.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the beautiful adaptive calculator app for Mac and works in every language.
+
 * [Panellicious](https://apps.apple.com/gb/app/panelicious/id1500880455?mt=12) <img src="https://i.ibb.co/q7BD9ws/color-app-icon-solo-single-panel.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the app that allows you to put static panels on your screen which can include everything from apps to files and folders for quick access.
 
 52. Permute 3 - Works with Downie and Converts any file you want.
