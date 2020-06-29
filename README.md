@@ -285,11 +285,12 @@ Some pesonal notes :
 
 * [Pixave](https://apps.apple.com/us/app/pixave/id924891282?mt=12) <img src="https://i.ibb.co/VpF9cRp/1200x630bb-6.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the ultimate image organizer. Basically it's a google photo albums alternative with elements that help designers. 
 
-55. PPRows - Get comprehensive info about folders (lines of code, file count by type etc.)
+* [PPRows](https://apps.apple.com/us/app/pprows/id1315592646?mt=12) <img src="https://i.ibb.co/5TJ8BXh/1200x630bb-7.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a code line computing tool that can calculate how many lines of code you write on Mac, but it can also give you comprehensive info about folders (file count by type etc.)
 
-56. Pushpal - Push all notifications from your phone to your pc. (you can reply to texts and messaging app notifications as well)
+* [Pushpal](https://apps.apple.com/us/app/pushpal-for-pushbullet/id909832412?mt=12) <img src="https://i.ibb.co/D79MJtJ/pushpal-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> automatically shows you all of your phone's notifications right on your computer. This means you can see who's calling or read text messages even if your phone is on silent or in another room. (you can reply to texts as well straight from your computer)
 
-57. Radio Silence - Block certains apps, processes etc. from accessing the internet.
+* [RadioSilence](https://radiosilenceapp.com/) <img src="https://i.ibb.co/VSDYCvD/macos-app-icons-radio-silence-1-png-clip-art.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> The easiest network monitor and firewall for Mac and easily blocks any app from going online
+
 
 58. Radio - Pause media players when input source change is detected or headphones unplugged. 
 
