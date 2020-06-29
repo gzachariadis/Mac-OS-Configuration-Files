@@ -198,12 +198,9 @@ Some pesonal notes :
 * [AudioSwither](https://apps.apple.com/us/app/audioswitcher/id561712678?mt=12) <img src="https://i.ibb.co/W57P1gJ/icon-Sound-Pref.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is a menu bar that allows you to switch quickly between all available input and output devices.  
 * [AutoCleanFolder](http://www.autocleanfolder.com/) <img src="https://i.ibb.co/nPQD45Y/download.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an app that just cleans folders for you when they match certain criteria.
 * [Bartender](https://www.macbartender.com/) <img src="https://i.ibb.co/QD2xHxy/icon-512x512-2x.png" width="20" height="20" border-width="0" alt="Bartender-icon" border="0"> - is an app that allows to hide icons from your menu bar.
-* [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/kDg37t2/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.png" width="20" height="20" border-width="0" alt="AudioSwitcher-icon" border="0"> - is an intuitive and stylish markdown note app for developers and it's fully open-source.
+* [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/kDg37t2/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.png" width="20" height="20" border-width="0" alt="Boostnote-icon" border="0"> - is an intuitive and stylish markdown note app for developers and it's fully open-source.
+* [Brave Browser](https://brave.com/) <img src="https://i.ibb.co/fQzTnKt/r-O7a-Idyp-400x400.png" width="20" height="20" border-width="0" alt="Brave-icon" border="0"> - is my prefered private browser. 
 
-
-9. Boostnote - Library for all sorts of snippets, code functions and notes. Use it however you like
-
-10. Brave Browser - My prefered ad block and private browsing browser. I keep it as secure as possible.
 
 11. Cappucinno - RSS Reader (don't use it a lot but it's a great tool to keep multiple sources of news and posts.) 
 
