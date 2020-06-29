@@ -37,7 +37,14 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Night in a City
 
 <br>
-<a href="https://youtu.be/dwvygFPR4i8" title="Night in a City"><img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/mq2.jpg" alt="Alternate Text" /></a>
+<iframe src='//gifs.com/embed/night-in-a-city-ZYxEWQ' frameborder='0' scrolling='no' width='440' height='400' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<br>
+
+![Alt Text](https://j.gifs.com/ZYxEWQ.gif)
+
+
+<br>
+<div style='position:relative;padding-bottom:56.232%;'><iframe src="//gifs.com/embed/night-in-a-city-ZYxEWQ" frameborder="0" scrolling="no" width="690" height="388" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
 <br>
 
 2. Mountain Aerial
