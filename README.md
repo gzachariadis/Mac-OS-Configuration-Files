@@ -215,6 +215,7 @@ Some pesonal notes :
 * [Hackernews YC](https://apps.apple.com/us/app/hacker-news-yc/id713733435) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="Hackernews-icon" border="0"> it allows you to read Hacker news straight from your desktop.
 * [iBoysoft NTFS](https://iboysoft.com/ntfs-for-mac/) <img src="https://i.ibb.co/vXpCFBZ/sale-22758-primary-image.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  allows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
 * [IINA](https://iina.io/) <img src="https://i.ibb.co/JFvXc6B/53581f4f41a07da471b67764ed6acf2d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
+* [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
 
 30. Kawa - Input Source changer (I use it to change language with shortcuts before using an applescript)
 
