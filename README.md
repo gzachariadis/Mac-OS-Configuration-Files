@@ -37,7 +37,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Night in a City
 
 <br>
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/dwvygFPR4i8)
+<a href="https://youtu.be/dwvygFPR4i8" title="Night in a City"><img src="{image-url}" alt="Alternate Text" /></a>
 <br>
 
 2. Mountain Aerial
@@ -63,9 +63,8 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 <img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png" width="50" height="50" align="left" hspace="0"/>
 
-<br><br>
+
 Tips and Tricks
-<br>
 
 1. Quick Look
 
