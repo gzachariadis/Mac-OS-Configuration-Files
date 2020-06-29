@@ -201,11 +201,8 @@ Some pesonal notes :
 * [BoostNote](https://boostnote.io/) <img src="https://i.ibb.co/kDg37t2/computer-icons-medium-social-media-blog-initial-coin-offering-thumbnail.png" width="20" height="20" border-width="0" alt="Boostnote-icon" border="0"> - is an intuitive and stylish markdown note app for developers and it's fully open-source.
 * [Brave Browser](https://brave.com/) <img src="https://i.ibb.co/fQzTnKt/r-O7a-Idyp-400x400.png" width="20" height="20" border-width="0" alt="Brave-icon" border="0"> - is my prefered private browser. 
 * [CardHop](https://flexibits.com/cardhop) <img src="https://i.ibb.co/yB9xf7C/SCOM0833-180.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> - is my prefered private browser. 
-* [cDock](https://www.macenhance.com/cdock) <img src="https://i.ibb.co/tqrgN8d/cdock-logo.png" width="20" height="20" border-width="0" alt="CardHop-icon" border="0"> - provides dock customization with multiple times the options the Mac dock menu gives you.
-
-14. Chatterino - My prefered client for Twitch Chat.
-
-16. Choosy - Choose which links open with which browser.
+* [cDock](https://www.macenhance.com/cdock) <img src="https://i.ibb.co/tqrgN8d/cdock-logo.png" width="20" height="20" border-width="0" alt="cDock-icon" border="0"> - provides dock customization with multiple times the options the Mac dock menu gives you.
+* [Choosy](https://www.choosyosx.com/) <img src="https://i.ibb.co/KhhmLDy/choosy-logo.png" width="20" height="20" border-width="0" alt="Chooshy-icon" border="0"> - choose which links open with which browser automatically.
 
 17. Clearview - Book Reader
 
