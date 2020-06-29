@@ -216,12 +216,8 @@ Some pesonal notes :
 * [iBoysoft NTFS](https://iboysoft.com/ntfs-for-mac/) <img src="https://i.ibb.co/vXpCFBZ/sale-22758-primary-image.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  allows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
 * [IINA](https://iina.io/) <img src="https://i.ibb.co/JFvXc6B/53581f4f41a07da471b67764ed6acf2d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
 * [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
-
-30. Kawa - Input Source changer (I use it to change language with shortcuts before using an applescript)
-
-31. KeepPassX - My offline backup password manager. Where I keep my licence keys and backup passwords.
-
-32. Keka - the macOS file archiver
+* [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
+* [Keka](https://www.keka.io/en/) <img src="https://i.ibb.co/crqTcZ3/keka.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the offline free, open source, light-weight and easy-to-use password manager.
 
 33. Keyboard Maesto - Trigger anything with a keyboard shortcut.
 
