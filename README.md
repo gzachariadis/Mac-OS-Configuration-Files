@@ -66,8 +66,8 @@ A depository showcasing a professional programmer setup to get the most out of y
 <img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Red.png" width="50" height="50" align="left" hspace="0" />
 
 <img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png" width="50" height="50" align="left" hspace="0"/>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
+
 
 Tips and Tricks
 
