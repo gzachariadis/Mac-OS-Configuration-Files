@@ -222,7 +222,7 @@ Tips and Tricks
 <br>
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Update%20Frequency.gif" width="50" height="50" align="left" hspace="0" />
+<div class="tenor-gif-embed" data-postid="17668290" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/gif-17668290">GIF</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 
 1. Quick Look
