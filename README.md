@@ -329,7 +329,7 @@ Tips and Tricks
 12. Final Desktop Result
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Final%20Desktop%20Result.png" width="1000" height="700">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Final%20Desktop%20Result.png" width="1300" height="700">
 <br>
 
 
