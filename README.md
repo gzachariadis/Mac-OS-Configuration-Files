@@ -221,7 +221,7 @@ Tips and Tricks
             I personally like to keep my Mac updated every day so I input 1 
 <br>
 
-<img src="https://gifyu.com/image/Qzga">
+<img src="https://s7.gifyu.com/images/Update-Frequency.gif" alt="Update-Frequency.gif" border="0"/>
 
 1. Quick Look
 
