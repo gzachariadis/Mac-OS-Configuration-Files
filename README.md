@@ -221,6 +221,8 @@ Tips and Tricks
             I personally like to keep my Mac updated every day so I input 1 
 <br>
 
+<img src="https://gifyu.com/image/Qzga">
+
 1. Quick Look
 
     Select a file --> Press Spacebar = Will preview the file without having to open it (press Spacebar again and you will exit preview)
