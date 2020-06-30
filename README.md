@@ -222,7 +222,7 @@ Tips and Tricks
 <br>
 
 <br>
-<img src="https://s7.gifyu.com/images/Update-Frequency.gif" width="50" height="50" align="left" hspace="0" />
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Update%20Frequency.gif" width="50" height="50" align="left" hspace="0" />
 <br>
 
 1. Quick Look
