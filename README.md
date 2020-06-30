@@ -10,7 +10,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Colorful Sky
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/ColorfulSky.jpg" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/DynamicSky.png" width="1000" height="400">
 <br>
 
 2. Mountains
