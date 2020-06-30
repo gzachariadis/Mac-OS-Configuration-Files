@@ -326,6 +326,50 @@ Tips and Tricks
     defaults write -g PMPrintingExpandedStateForPrint -bool TRUE
 
 <br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20First.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Second.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Third.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Forth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Fifth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Sixth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Seventh.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Eighth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Ninth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Tenth.png">
+<br>
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Launchpad%20Eleventh.png">
+<br>
+
+<br>
 12. Final Desktop Result
 
 <br>
