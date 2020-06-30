@@ -321,8 +321,13 @@ Tips and Tricks
 
     Let's say you have two folders open and you want to create a duplicate of one file (copy) into another folder or in your desktop. All you have to do is hold     option and drag the file to its new destination. That will diplicate the file where you want it to. 
     
+11. Open Comprehensive Printing by default (requires reboot)
 
-      Woah! You reached the end, here's a kitten for your troubles 
+    defaults write -g PMPrintingExpandedStateForPrint -bool TRUE
+
+
+
+
+Woah! You reached the end, here's a kitten for your troubles 
     
-      
-      ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
