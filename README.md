@@ -325,6 +325,12 @@ Tips and Tricks
 
     defaults write -g PMPrintingExpandedStateForPrint -bool TRUE
 
+<br>
+12. Final Desktop Result
+
+<br>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Mac%20Showcase/Final%20Desktop%20Result.png" width="1000" height="400">
+<br>
 
 
 
