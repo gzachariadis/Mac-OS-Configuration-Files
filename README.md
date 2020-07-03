@@ -114,8 +114,6 @@ Some pesonal notes :
 
 * [EyeTimer](https://apps.apple.com/us/app/eye-timer/id1485856873?mt=12) <img src="https://i.ibb.co/XJZBLjr/download.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> is the app that reminds you to take a break from your computer every so offen to protect your eyes.
 
-* [Flux](https://justgetflux.com/) <img src="https://i.ibb.co/999WvDd/flux-icon-big.png" width="20" height="20" border-width="0" alt="EpuborKRCConverter-icon" border="0"> makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
-
 * [Github Desktop](https://desktop.github.com/) <img src="https://i.ibb.co/SyG1Rfm/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart.jpg" width="20" height="20" border-width="0" alt="Github-icon" border="0"> allows you to manage your github repositories from your mac.
 
 * [Hackernews YC](https://apps.apple.com/us/app/hacker-news-yc/id713733435) <img src="https://i.ibb.co/6rRtZ2b/Screenshot-at-Jun-29-20-47-29.png" width="20" height="20" border-width="0" alt="Hackernews-icon" border="0"> allows you to read Hacker news straight from your desktop.
