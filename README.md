@@ -191,8 +191,6 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Tweetbot](https://apps.apple.com/gb/app/tweetbot-3-for-twitter/id1384080005?mt=12) <img src="https://i.ibb.co/RNwFFGc/1200x630wa.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a full-featured Twitter client for the Mac. It has a beautiful interface with light & dark themes, multiple-column support and much more.
 
-* [Views](https://apps.apple.com/gb/app/views-4/id1504584987) <img src="https://i.ibb.co/FKxY6MD/Screenshot-at-Jun-29-23-44-18.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a gorgeous rss, podcasts and article searching and news reader all in one.
-
 * [Typeeto](https://apps.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12) <img src="https://i.ibb.co/C2ZF7Rs/Typeeto-Icon.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that enables you to use your Mac keyboard as a Bluetooth keyboard for other devices such as iPad, iPhone, Apple TV, Android device, etc. You do not need to install any other apps on your device – just connect it to Mac and start typing.
 
 * [Unclutter](https://apps.apple.com/us/app/unclutter/id577085396?mt=12) <img src="https://i.ibb.co/44rpsKm/Screenshot-at-Jun-29-23-49-40.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a new handy place on your desktop for storing notes, files and pasteboard clips.
