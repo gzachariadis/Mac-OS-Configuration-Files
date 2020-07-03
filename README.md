@@ -120,8 +120,6 @@ Some pesonal notes :
 
 * [iBoysoft NTFS](https://iboysoft.com/ntfs-for-mac/) <img src="https://i.ibb.co/vXpCFBZ/sale-22758-primary-image.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0">  allows you to mount NTFS drives to Mac and write, read and copy files to and from them. Useful to move files to and from External drives for windows systems.
 
-* [IINA](https://iina.io/) <img src="https://i.ibb.co/JFvXc6B/53581f4f41a07da471b67764ed6acf2d.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
-
 * [Kawa](https://github.com/utatti/kawa) <img src="https://i.ibb.co/bJGGxCV/images.jpg" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the modern media player for macOS, and it supports everything VLC does.
 
 * [KeepPassX](https://keepass.info/) <img src="https://i.ibb.co/s21FmFw/Kee-Pass-X-icon-svg.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a better input source switcher for OS X, it helps users to switch between keyboard input sources by user-defined shortcuts.
@@ -139,8 +137,6 @@ Some pesonal notes :
 * [Lightshot](https://app.prntscr.com/en/index.html) <img src="https://i.ibb.co/gJw506H/png-transparent-lightshot-screenshot-computer-icons-others-thumbnail.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is the fastest way to take a customizable screenshot and share it.
 
 * [Liteicon](https://freemacsoft.net/liteicon/) <img src="https://i.ibb.co/d099G16/clay-os-6-a-macos-icon-liteicon-white-and-blue-settings-logo-icon-png-clipart.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a simple app which allows you to change your system icons quickly and easily.
-
-* [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) <img src="https://i.ibb.co/rxdXbf2/1200x630bb-3.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is an app that allows you to organize your workspace.
 
 * [Monolingual](https://ingmarstein.github.io/Monolingual/) <img src="https://i.ibb.co/rGZ285X/monolingual-logo.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> is a tool for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.
 
