@@ -203,7 +203,8 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Skhd](https://github.com/koekeishiya/skhd)
 
-
+* [MacPaste](https://github.com/lodestone/macpaste)
+  
 <br><br><br>
 Tips and Tricks
 
