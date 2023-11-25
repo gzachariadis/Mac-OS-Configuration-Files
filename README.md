@@ -201,6 +201,9 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Thrive](https://apps.apple.com/us/app/thrive-a-simple-goal-planner/id1599514904)
 
+* [Skhd](https://github.com/koekeishiya/skhd)
+
+
 <br><br><br>
 Tips and Tricks
 
