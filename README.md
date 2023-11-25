@@ -199,6 +199,8 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Radio](https://apps.apple.com/gb/app/relax-unplug/id1440712920?mt=12) <img src="https://i.ibb.co/tLFb0wZ/Screenshot-at-Jun-30-00-06-46.png" width="20" height="20" border-width="0" alt="iBoysoft-icon" border="0"> pauses media players when input source change is detected or headphones unplugged. 
 
+* [Thrive](https://apps.apple.com/us/app/thrive-a-simple-goal-planner/id1599514904)
+
 <br><br><br>
 Tips and Tricks
 
