@@ -2,50 +2,6 @@
 
 A depository showcasing a professional programmer setup to get the most out of your mac and increase your productivity and bring out a bit of your personality and stylistic preferences as well.
 
-# Aesthetic Customization
-
-### Static Wallpapers
-<br>
-
-1. Colorful Sky
-
-<br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/DynamicSky.png" width="1000" height="400">
-<br>
-
-2. Mountains
-
-<br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/Mountain.jpeg" width="1000" height="400">
-<br>
-
-3. Dreams
-
-<br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/Dreams.png" width="1000" height="400">
-<br>
-
-4. Dynamic Sky
-
-<br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Wallpapers/Static/DynamicSky.png" width="1000" height="400">
-<br>
-
-### Dynamic Wallpapers
-<br>
-
-1. Night in a City
-
-<br>
-<img src="https://j.gifs.com/ZYxEWQ.gif" width="1500" height="600">
-<div align="center">
-    
-### Check it out at : https://youtu.be/dwvygFPR4i8
-</div>
-<br>
-
-2. Mountain Aerial
-
 ### Folders
 <br>
 
