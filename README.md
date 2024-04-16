@@ -339,3 +339,44 @@ Tips and Tricks
 Woah! You reached the end, here's a kitten for your troubles 
     
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+## Email Clients
+
+- [eM Client](https://www.emclient.com/)
+- [Thunderbird](https://www.thunderbird.net/en-US/)
+  - [DKIM Verifier](https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/?collection_id=a5557f08-eafd-7a39-81c6-09127da790f7)
+- [Postbox](https://www.postbox-inc.com/)
+  - [Enigmail](https://www.enigmail.net/index.php/en/home)
+
+### Email Tools
+
+- [GPG Suite](https://gpgtools.org/)
+
+## Firewall
+
+- [Little Snitch](https://obdev.at/products/littlesnitch/index.html)
+
+## Images
+
+- [ImageOptim](https://imageoptim.com/mac)
+- [ExifTool](https://exiftool.org/)
+- [ExifCleaner](https://exifcleaner.com/)
+
+## Notes
+
+- [Affine Pro](https://affine.pro/)
+
+## Virtualization
+
+- [Getutm](https://mac.getutm.app/)
+
+  
+
+# Sources
+
+- [Mac OS](https://github.com/iCHAIT/awesome-macOS)
+- 
+
+
+
