@@ -165,7 +165,15 @@ A Slide Over browser on your Mac. No more hassle of window switching
 
 * [Libation](https://github.com/rmcrackan/Libation)
 
-* 
+* [GPG Suite](https://gpgtools.org/)
+
+* [ExifTool](https://exiftool.org/)
+
+* [ImageOptim](https://imageoptim.com/mac)
+
+* [Fortress](https://github.com/essandess/macOS-Fortress)
+
+* [Stronghold](https://github.com/alichtman/stronghold)
   
 <br><br><br>
 Tips and Tricks
