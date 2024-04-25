@@ -1,30 +1,6 @@
 # Mac-OS
 
-A depository showcasing a professional programmer setup to get the most out of your mac and increase your productivity and bring out a bit of your personality and stylistic preferences as well.
-
-### Folders
-<br>
-
-1. First set
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Black.png" width="50" height="50" align="left" hspace="0"/>
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Blue.png" width="50" height="50" align="left" hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Gray.png" width="50" height="50" align="left" hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Green.png" width="50" height="50" align="left"  hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Orange.png" width="50" height="50" align="left" hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Purple.png" width="50" height="50" align="left" hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Red.png" width="50" height="50" align="left" hspace="0" />
-
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase-Repo/blob/master/Desktop/Folders/Set1/PNG/Yellow.png" width="50" height="50" align="left" hspace="0"/>
-<br><br><br><br>
-
-### Apps
+## Apps
 
 Some pesonal notes :
 
